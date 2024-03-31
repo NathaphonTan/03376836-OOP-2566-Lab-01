@@ -12,6 +12,9 @@ Console.Write("Hello");
 
 ➢ รันโปรแกรมและบันทึกผล
 
+<img width="659" alt="2 1 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-01/assets/144870609/98310297-050e-494e-b0d5-7704556d5f99">
+
+<img width="878" alt="2 1 2" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-01/assets/144870609/18830be4-a62d-4e99-af9a-09bb969c4786">
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
 
